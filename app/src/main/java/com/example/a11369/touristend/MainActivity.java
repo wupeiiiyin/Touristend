@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("TAG", "onCreate: asdsadas-------" );
+        Log.e("TAG", "onCreate: asdsadas------+-" );
+        Log.e("TAG", "onCreate: asdsadas-----+--" );
     }
 }
